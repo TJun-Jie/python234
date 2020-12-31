@@ -149,3 +149,5 @@ cython_debug/
 
 
 .vscode
+
+secret_key.py
